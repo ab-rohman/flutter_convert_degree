@@ -10,7 +10,6 @@ class Result extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Column(
-      // ignore: prefer_const_literals_to_create_immutables
       children: [
         Container(
           padding: const EdgeInsets.fromLTRB(5, 30, 5, 30),
